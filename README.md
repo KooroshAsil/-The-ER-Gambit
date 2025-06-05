@@ -156,4 +156,8 @@ Want to make it even more realistic?
 
 Made with 💙 by *Koorosh Asil Gharehbaghi*  
 Instructor: Dr. Razieh Khodsiani  
-K. N. Toosi University of Technology, Department of Computer Science
+
+K. N. Toosi University of Technology  
+Department of Computer Science  
+Faculty of Mathematics
+
