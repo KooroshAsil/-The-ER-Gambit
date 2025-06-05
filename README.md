@@ -2,8 +2,7 @@
 # 💉 *The ER Gambit 🎲* 
 ## Queueing Analysis of a Hospital Emergency Room
 
-> *A fun, friendly, and impactful take on how queueing theory & simulation can improve hospital ER efficiency* 🚑⚙📉  
-> *By Koorosh Asil Gharehbaghi – Department of Computer Science, K. N. Toosi University of Technology*
+> *A fun, friendly, and impactful take on how queueing theory & simulation can improve hospital ER efficiency* 🚑📉
 
 ---
 
